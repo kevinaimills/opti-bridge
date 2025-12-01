@@ -1,0 +1,75 @@
+<Grid><Rows>11</Rows><Cols>9</Cols></Grid>
+
+<DynamicKey>
+	<Action>Escape</Action>
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	<Label>Esc</Label>
+</DynamicKey>
+
+<DynamicKey>
+	<Label>=</Label>
+	<ShiftDownLabel>+</ShiftDownLabel>
+	<Text>=</Text>
+	  .c=0
+</DynamicKey>
+
+t={ c=0
+t=} c=0
+
+t=+	c=0
+
+t=`	c=0
+
+t=!	c=0
+t=@	c=0
+t=#	c=0
+
+	<DynamicKey>
+		<Label>Shift</Label>
+		.a=NumPad5
+		<Action>LeftShift</Action>
+		<Symbol>ShiftIcon</Symbol>
+		.c=\k\y
+   </DynamicKey> 
+
+t=k c=\k\y
+
+t=( c=0
+t=) c=0
+
+t=\s l=space s=SpaceIcon c=0
+      
+t=_	c=0
+t=$	c=0
+t=%	c=0
+t=^	c=0
+
+ <DynamicKey>
+	<Text>&#9;</Text>
+	<Label>Tab</Label>
+	<Symbol>TabIcon</Symbol>
+	  .c=\k\y
+</DynamicKey>
+
+t=/	c=\k\y
+
+	<DynamicKey>
+	  <Label>&lt;</Label>
+	  <Text>&lt;</Text>
+	  .c=0
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>&gt;</Label>
+	  <Text>&gt;</Text>
+	  .c=0
+    </DynamicKey>
+t=-	c=0
+t=~	c=0
+
+t=&	c=0
+t=*	c=0
+t=|	c=0
+
+#close=donotclose
+#	close=KevinBottom

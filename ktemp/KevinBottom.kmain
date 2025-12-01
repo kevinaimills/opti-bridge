@@ -1,0 +1,17 @@
+   <Width>100%</Width>
+  <HorizontalOffset>0%</HorizontalOffset>
+  <VerticalOffset>99.6%</VerticalOffset>
+  <Content>
+
+<DynamicKey CompletionTimes="60, 1000" Col="1" Height="24">
+    <Label>Bottom</Label>
+    .s-^+f12
+    .u=LeftAlt u=LeftWin u=LeftShift u=LeftCtrl
+    .a=NumPad5
+#    <ReturnKeyboard>KevinBottomMain</ReturnKeyboard>
+    .c=\k\bSleep w=20
+    <ReturnKeyboard>KevinBottomMain</ReturnKeyboard>
+</DynamicKey>
+
+ </Content>
+</Keyboard>

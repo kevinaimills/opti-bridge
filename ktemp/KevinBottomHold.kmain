@@ -1,0 +1,11 @@
+  <Position>Bottom</Position>
+  <Width>100%</Width>
+  <HorizontalOffset>0%</HorizontalOffset>
+  <VerticalOffset>99.6%</VerticalOffset>
+  <Content>
+   <DynamicKey CompletionTimes="80" Row="5" Width="3" Height="18">
+     <Label>Bottom</Label>
+     .c=\k\bMain
+    </DynamicKey>
+  </Content>
+</Keyboard>

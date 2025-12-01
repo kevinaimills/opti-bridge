@@ -1,0 +1,11 @@
+#copy[\k\b][\k\bMain && <VerticalOffset>.*?<][\k\b && <VerticalOffset>160%<]
+#copy[\k\b][\k\bMain && \.a.* && <Symbol>Mouse.* && <Symbol>Replay.* && Row="." && \.c=KevinBottomRepeatDouble][\k\b &&   && .u=f13 && .u=f14 && Row="0" && ]
+
+copy[\k\b][\k\bMain && <DynamicKey C && </Content>][\k\b && <DynamicKey Row="0" Col="0" Height="24"><KeyUp>f13</KeyUp></DynamicKey><DynamicKey C && <DynamicKey Row="0" Col="2" Height="24"><KeyUp>f14</KeyUp></DynamicKey></Content>]
+
+#copy[\k\b][\k\bMain && <DynamicKey C][\k\b && <DynamicKey Row="0" Col="0" Height="24"><KeyUp>f13</KeyUp></DynamicKey><DynamicKey C]
+
+
+# \.a.* && <Symbol>Mouse.* && <Symbol>Replay.* && Row="." && \.c=KevinBottomRepeatDouble][\k\b &&   && .u=f13 && .u=f14 && Row="0" && ]
+
+

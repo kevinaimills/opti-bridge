@@ -1,0 +1,39 @@
+<Grid><Rows>11</Rows><Cols>9</Cols></Grid>
+
+l=(fn)\\n\\nz c=\k\yFN
+t=m c=0
+t=u c=0
+t=t c=0
+t=o c=0
+t=i c=0
+t=f c=0
+t=w c=0
+t=x c=0
+
+
+t=v c=0
+l=(syms)\\n\\nk c=\k\ySyms
+t=h c=0
+t=e c=0
+
+t=\s l=space s=SpaceIcon c=0
+
+t=n c=0
+t=d c=0
+l=(punc)\\n\\nj c=\k\yPunc
+t=g c=0
+
+t=q c=0
+t=p c=0
+t=c	 c=0
+t=s c=0
+t=r c=0
+t=a	 c=0
+
+
+t=l c=0
+t=b c=0
+t=y c=0
+
+#close=donotclose
+	close=KevinBottom

@@ -1,0 +1,90 @@
+  	<DynamicKey>
+      <Label>App 1:\nFILES</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>2</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+      <Label>App 2:\nBROWSER</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>3</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+      <Label>App 3:\nPDF</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>4</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+      <Label>App 4</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>5</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+   
+	<DynamicKey>
+      <Label>App 5</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>6</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard> 
+    </DynamicKey>
+
+#	<DynamicKey>
+#	  <Label>misc\neditor</Label>
+ #     .s-^!F2
+#	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+#	</DynamicKey>
+
+	<DynamicKey>
+      <Label>App 6</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>7</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard> 
+    </DynamicKey>
+
+	<DynamicKey>
+      <Label>((MORE))</Label>
+      <ChangeKeyboard>KevinBottomWindows2</ChangeKeyboard>
+	</DynamicKey>
+
+	<DynamicKey>
+      <Label>App 7</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>8</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard> 
+    </DynamicKey>
+
+	<DynamicKey>
+      <Label>App 8</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Text>9</Text>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard> 
+    </DynamicKey>

@@ -1,0 +1,11 @@
+  <Position>Bottom</Position>
+  <Width>100%</Width>
+  <HorizontalOffset>0%</HorizontalOffset>
+  <VerticalOffset>160%</VerticalOffset>
+  <Content>
+    <DynamicKey CompletionTimes="300" Width="3" Height="24">
+      <Label>Bottom</Label>
+	   <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+  </Content>
+</Keyboard>

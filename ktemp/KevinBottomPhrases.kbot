@@ -1,0 +1,20 @@
+#t=reddit.com/r/ c=\k\q
+	<DynamicKey>
+	  <Label>Toggle\nDragon</Label>
+      .s-^!f5
+#	  <KeyDown>Control</KeyDown>
+#	  <KeyDown>LeftShift</KeyDown>
+#	  <Text>\</Text>
+#	  <KeyUp>Control</KeyUp>
+#	  <KeyUp>LeftShift</KeyUp>
+     <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+t='site:reddit.com '
+t='site:reddit.com/r/askhistorians '
+t=music.youtube.com\e 
+t=temp
+t=temp2
+t='site:forum.reasontalk.com '
+t='site:forum.cockos.com '
+t='site:kvraudio.com/forum/ '

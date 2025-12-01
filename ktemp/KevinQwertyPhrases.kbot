@@ -1,0 +1,28 @@
+close=KevinBottom
+
+<DynamicKey CompletionTimes="80">
+	<Text>&#9;</Text>
+	<Label>Tab</Label>
+	<Symbol>TabIcon</Symbol>
+	<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="80">
+    <Text>&#32;</Text>
+	<Label>Space</Label>
+	<Symbol>SpaceIcon</Symbol>
+	<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="80">
+	<Action>Insert</Action>
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	<Label>Insert</Label>
+</DynamicKey>	
+
+t=music.youtube.com\e c=\k\b
+t='site:reddit.com ' c=\k\b
+t='site:reddit.com/r/askhistorians ' c=\k\b
+t='reddit.com/r/' c=\k\b
+c=\k\bRuler
+t='site:kvraudio.com/forum/ ' c=\k\b

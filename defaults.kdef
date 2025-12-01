@@ -1,0 +1,14 @@
+<Grid><Rows>11</Rows><Cols>3</Cols></Grid>
+
+<KeyGroup Name="ALL" Opacity="0.70" CompletionTimes="80, 1000" LockOnTime="0"/>
+
+<DynamicKey Width="3" CompletionTimes="1, 100">
+#	    .a=MouseScrollToBottom w=50
+<Label>Close</Label>
+	<ChangeKeyboard Close="Yes">KevinBottom</ChangeKeyboard>
+
+</DynamicKey>
+
+<DynamicKey>
+	<Label> </Label>
+</DynamicKey>

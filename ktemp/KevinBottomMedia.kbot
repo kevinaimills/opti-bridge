@@ -1,0 +1,58 @@
+<DynamicKey>
+  <Symbol>ArrowPointingToBottomIcon</Symbol>
+  .c=\k\bHoldLong w=300 
+  <ChangeKeyboard>KevinBottomSleep</ChangeKeyboard>
+</DynamicKey>
+
+ c=\k\bPhrases
+
+<DynamicKey>
+  .l=sleep
+  <Symbol>SleepIcon</Symbol>
+  .s-^+f8
+#	.s-^+m
+  <ChangeKeyboard>KevinBottomDisabled</ChangeKeyboard>
+</DynamicKey>
+
+	<DynamicKey>
+	  <Label>VOLUME\nDOWN</Label>
+	  <KeyDown>VOLUME_DOWN</KeyDown>
+	  <KeyUp>VOLUME_DOWN</KeyUp>
+#	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+	  <Label>VOLUME\nUP</Label>
+	  <KeyDown>VOLUME_UP</KeyDown>
+	  <KeyUp>VOLUME_UP</KeyUp>
+#	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+  	<DynamicKey>
+	  <Label>MUTE</Label>
+	  <KeyDown>VOLUME_MUTE</KeyDown>
+	  <KeyUp>VOLUME_MUTE</KeyUp>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>PREVIOUS\nTRACK</Label>
+	  <KeyDown>MEDIA_PREV_TRACK</KeyDown>
+	  <KeyUp>MEDIA_PREV_TRACK</KeyUp>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+  
+	<DynamicKey>
+	  <Label>NEXT\nTRACK</Label>
+	  <KeyDown>MEDIA_NEXT_TRACK</KeyDown>
+	  <KeyUp>MEDIA_NEXT_TRACK</KeyUp>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+	
+	<DynamicKey>
+	  <Label>PLAY\nPAUSE</Label>
+	  <KeyDown>MEDIA_PLAY_PAUSE</KeyDown>
+	  <KeyUp>MEDIA_PLAY_PAUSE</KeyUp>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+

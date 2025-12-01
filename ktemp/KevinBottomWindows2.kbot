@@ -1,0 +1,58 @@
+  	<DynamicKey>
+	  <Symbol>ArrowPointingToLeftIcon</Symbol>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Action>ArrowLeft</Action>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+l=Full\\nScreen s-^!f3
+
+	<DynamicKey>
+      <Symbol>ArrowPointingToRightIcon</Symbol>
+	  <KeyDown>LeftWin</KeyDown>
+	  <KeyDown>Control</KeyDown>
+	  <Action>ArrowRight</Action>
+	  <KeyUp>LeftWin</KeyUp>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+	
+	<DynamicKey>
+      <Symbol>ArrowPointingToLeftBoundaryIcon</Symbol>
+	  <KeyDown>LeftWin</KeyDown>
+	  <Action>ArrowLeft</Action>
+	  <KeyUp>LeftWin</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+		<Label>Maximize\nWindow</Label>
+	.s-^+F9
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+<!--
+	<DynamicKey>
+      <Label>Show\nDesktop</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <Text>d</Text>
+	  <KeyUp>LeftWin</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+-->
+	<DynamicKey>
+      <Symbol>ArrowPointingToRightBoundaryIcon</Symbol>
+	  <KeyDown>LeftWin</KeyDown>
+	  <Action>ArrowRight</Action>
+	  <KeyUp>LeftWin</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+s-#s s=WinIcon
+
+	l=restore\\nwindow s-^+f14
+	
+	l=Alt\\nF4 s-^!f4

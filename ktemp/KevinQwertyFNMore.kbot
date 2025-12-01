@@ -1,0 +1,59 @@
+
+	<DynamicKey>
+		<Label>F10</Label>
+      <Action>F10</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F11</Label>
+      <Action>F11</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F12</Label>
+      <Action>F12</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Action>PrintScreen</Action>
+		<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+		<Label>prtscn</Label>
+	</DynamicKey>
+ 
+     <DynamicKey>
+		<Action>ScrollLock</Action>
+		<Label>scroll lock</Label>
+	</DynamicKey> 
+
+  	<DynamicKey>
+		<Action>NumberLock</Action>
+		<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+		<Label>num lock</Label>
+	</DynamicKey>	
+
+   	<DynamicKey>
+		.a=NumPad5
+		<Action>LeftCtrl</Action>
+		<Label>Ctrl</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>
+
+	<DynamicKey>
+		.a=NumPad5
+		<Action>LeftWin</Action>
+		<Symbol>WinIcon</Symbol>
+		<Label>Super</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>
+
+   <DynamicKey>
+		.a=NumPad5
+		<Action>LeftAlt</Action>
+		<Label>Alt</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>	
+
+ 

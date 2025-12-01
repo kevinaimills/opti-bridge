@@ -1,0 +1,84 @@
+<Grid><Rows>11</Rows><Cols>9</Cols></Grid>
+
+t=1 c=0
+t=2 c=0
+t=3 c=0
+t=? c=\k\y
+t={ c=\k\y
+t=} c=\k\y
+
+	<DynamicKey>
+	  <Label>&#39;</Label>
+	  <ShiftDownLabel>&#34;</ShiftDownLabel>
+	  <Text>&#39;</Text>
+	  .c=\k\y
+	</DynamicKey>
+
+	<DynamicKey>
+        <Action>BackOne</Action>
+		<Label>Backspace</Label>
+		<Symbol>BackOneIcon</Symbol>
+		.c=\k\y
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>&#34;</Label>
+	  <Text>&#34;</Text>
+	  .c=\k\y
+    </DynamicKey>	
+
+t=4 c=0
+t=5 c=0
+t=6 c=0
+
+t=: c=\k\y
+t=( c=\k\y
+t=) c=\k\y
+
+	<DynamicKey>
+	  <Label>,</Label>
+	  <ShiftDownLabel>&lt;</ShiftDownLabel>
+	  <Text>,</Text>
+	  .c=\k\y
+    </DynamicKey>
+
+t=z c=\k\y
+
+	<DynamicKey>
+	  <Label>.</Label>
+	  <ShiftDownLabel>&gt;</ShiftDownLabel>
+	  <Text>.</Text>
+	  .c=\k\y
+    </DynamicKey>
+
+t=7 c=0
+t=8 c=0
+t=9	 c=0
+t=0 l=0 c=0
+
+t=[ c=\k\y
+t=] c=\k\y
+
+	<DynamicKey>
+	  <Label>;</Label>
+	  <ShiftDownLabel>:</ShiftDownLabel>
+	  <Text>;</Text>
+	  .c=\k\y
+    </DynamicKey>
+
+	<DynamicKey>
+		<Label>Shift</Label>
+		.a=NumPad5
+		<Action>LeftShift</Action>
+		<Symbol>ShiftIcon</Symbol>
+		.c=\k\y
+   </DynamicKey> 
+
+	<DynamicKey>
+		<Text>&#13;</Text>
+		.c=\k\y
+		<Symbol>EnterIcon</Symbol>
+	</DynamicKey>
+
+#close=donotclose
+#	close=KevinBottom

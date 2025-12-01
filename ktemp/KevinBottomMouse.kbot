@@ -1,0 +1,61 @@
+<DynamicKey>
+	<Symbol>MouseLeftClickIcon</Symbol>
+	.c=KevinBottomRepeatDouble
+	.w=100
+	.a=MouseLeftClick
+</DynamicKey>
+
+<DynamicKey>
+	<Symbol>MouseMiddleClickIcon</Symbol>
+	<ChangeKeyboard>KevinBottomRepeat</ChangeKeyboard>
+	.w=100
+	<Action>MouseMiddleClick</Action>
+</DynamicKey>
+
+<DynamicKey>
+	<Symbol>MouseRightClickIcon</Symbol>
+	<ChangeKeyboard>KevinBottomRepeat</ChangeKeyboard>
+	.w=100
+	<Action>MouseRightClick</Action>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard BackReturnsHere="False">KevinBottomRepeat</ChangeKeyboard>	
+	<Action>MouseMagnifier</Action>
+	<Symbol>MouseMoveToIcon</Symbol>
+	<Action>MouseMoveTo</Action>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard BackReturnsHere="False">KevinBottom</ChangeKeyboard>	
+	<Symbol>MouseMagnifierIcon</Symbol>
+	<Action>MouseMagneticCursor</Action>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard>KevinBottomRepeat</ChangeKeyboard>
+	<Action>MouseMagnifier</Action>
+	<Symbol>MouseRightClickIcon</Symbol>
+	<Action>MouseMoveAndRightClick</Action>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard BackReturnsHere="False">KevinBottomRepeat</ChangeKeyboard>	
+	.s-^+F22
+	<Symbol>MouseMagneticCursorIcon</Symbol>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard BackReturnsHere="False">KevinBottomRepeat</ChangeKeyboard>	
+	.s-^+F10
+	<Symbol>MouseMagneticCursorIcon</Symbol>
+</DynamicKey>
+
+<DynamicKey>
+	<ChangeKeyboard>KevinBottomRepeat</ChangeKeyboard>
+	<Action>MouseMagnifier</Action>
+	<Symbol>MouseDragIcon</Symbol>
+	<Action>MouseDrag</Action>
+</DynamicKey>
+
+#onClose[w=1000 u=LeftCtrl w=4000 u=LeftCtrl]

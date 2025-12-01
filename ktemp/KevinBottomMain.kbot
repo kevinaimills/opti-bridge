@@ -1,0 +1,61 @@
+ # 	close=KevinBottomSleep
+
+#	<DynamicKey>
+#   	<Symbol>LookToScrollSpeedSlowIcon</Symbol>
+ #  .s-!escape
+#    .s-^!tab
+#    .s-#tab
+#	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+#  .w=100
+
+#  	.a=MouseMagnifier
+#	.a=MouseMoveAndLeftClick
+#  </DynamicKey>
+
+c=\k\bNavigation l='Navigation'
+
+	<DynamicKey>
+     <Label>Variable</Label>
+      <ChangeKeyboard>KevinBottomVariables</ChangeKeyboard>
+  </DynamicKey>
+ 
+ 
+	<DynamicKey>
+    .l=Settings
+	  <ChangeKeyboard>KevinBottomSettings</ChangeKeyboard>
+    </DynamicKey>
+
+<DynamicKey>
+	.c=KevinBottomRepeatDouble
+	.a=MouseMagnifier
+	<Symbol>MouseLeftClickIcon</Symbol>
+	.a=MouseMoveAndLeftClick
+</DynamicKey>
+ 
+	c=\k\bScroll s=MouseMiddleClickIcon
+	
+	<DynamicKey>
+      <Symbol>MouseRightClickIcon</Symbol>
+      <ChangeKeyboard>KevinBottomMouse</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+      <Label>Windows</Label>
+      <ChangeKeyboard>KevinBottomWindows</ChangeKeyboard>
+    </DynamicKey>
+ 
+ 	<DynamicKey>
+      <Symbol>KeyboardIcon</Symbol>
+      .c=\k\yStart
+  </DynamicKey>
+  
+<!--	<DynamicKey>
+      <Label>Phrases</Label>
+      <ChangeKeyboard>KevinBottomPhrases</ChangeKeyboard>
+    </DynamicKey>
+--> 
+	<DynamicKey>
+      <Label>hotkeys</Label>
+      <ChangeKeyboard>KevinBottomHotkeys</ChangeKeyboard>
+    </DynamicKey>
+

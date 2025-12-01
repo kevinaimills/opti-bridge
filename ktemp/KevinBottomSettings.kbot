@@ -1,0 +1,52 @@
+<DynamicKey CompletionTimes="500">
+	.s-^!f6
+	.l='Keys\\nFast'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f9
+	.l='Tracking\\nHigh'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+c=\k\bMedia l=((media))
+
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f7
+	.l='Keys\\nSlow'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f11
+	.l='Tracking\\nMiddle'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f10
+	.l='Tracking\\nmid high'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+#	.s-^!f12
+#	.l='Tracking\\nLeft'
+	.s-^!f8
+	.l='Keys\\nVery Slow'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f13
+	.l='Tracking\\nLow'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>
+
+<DynamicKey CompletionTimes="500">
+	.s-^!f12
+	.l='Tracking\\nmid low'
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+</DynamicKey>

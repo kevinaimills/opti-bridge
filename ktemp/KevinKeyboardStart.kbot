@@ -1,0 +1,72 @@
+<Grid><Rows>11</Rows><Cols>9</Cols></Grid>
+
+<DynamicKey>
+	<Action>Escape</Action>
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	<Label>Esc</Label>
+</DynamicKey>
+
+t=m c=\k\y
+t=u c=\k\y
+t=t c=\k\y
+t=o c=\k\y
+t=i c=\k\y
+t=f c=\k\y
+t=w c=\k\y
+
+	<DynamicKey>
+        <Action>BackOne</Action>
+		<Label>Backspace</Label>
+		<Symbol>BackOneIcon</Symbol>
+    </DynamicKey>
+
+	<DynamicKey>
+		<Label>Shift</Label>
+		.a=NumPad5
+		<Action>LeftShift</Action>
+		<Symbol>ShiftIcon</Symbol>
+		.c=\k\y
+   </DynamicKey> 
+
+l=(syms)\\n\\nk c=\k\ySyms
+t=h c=\k\y
+t=e c=\k\y
+
+l=all\\nkeys c=\k\y
+
+t=n c=\k\y
+t=d c=\k\y
+l=(punc)\\n\\nj c=\k\yPunc
+
+	<DynamicKey>
+		<Text>&#13;</Text>
+		.c=\k\b
+		<Symbol>EnterIcon</Symbol>
+	</DynamicKey>
+
+ <DynamicKey>
+	<Text>&#9;</Text>
+	<Label>Tab</Label>
+	<Symbol>TabIcon</Symbol>
+	  .c=\k\y
+</DynamicKey>
+
+t=p c=\k\y
+t=c	 c=\k\y
+t=s c=\k\y
+t=r c=\k\y
+t=a	 c=\k\y
+
+
+t=l c=\k\y
+t=b c=\k\y
+
+    <DynamicKey>
+		<Action>Delete</Action>
+        <Symbol>NoIcon</Symbol>
+#		<Label>Delete</Label>
+#	  .c=\k\y
+	</DynamicKey>
+
+#close=donotclose
+	close=KevinBottom

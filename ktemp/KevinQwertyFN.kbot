@@ -1,0 +1,53 @@
+	<DynamicKey>
+		<Label>F1</Label>
+      <Action>F1</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F2</Label>
+      <Action>F2</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F3</Label>
+      <Action>F3</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+		<Label>F4</Label>
+      <Action>F4</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F5</Label>
+      <Action>F5</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F6</Label>
+      <Action>F6</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F7</Label>
+      <Action>F7</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+		<Label>F8</Label>
+      <Action>F8</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+		<Label>F9</Label>
+      <Action>F9</Action>
+	  <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>

@@ -1,0 +1,54 @@
+ l=alt\\ntab s-^+f15
+
+ 	<DynamicKey>
+		<Action>Home</Action>
+		<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+		<Label>Home</Label>
+	</DynamicKey>	
+
+l='Shift\\nArrows' s-^!F16
+
+	<DynamicKey>
+#	    .a=MouseScrollToBottom
+	  <Symbol>BrowserBackIcon</Symbol>
+	  <Label>Back</Label>
+	  <KeyDown>LeftAlt</KeyDown>
+	  <Action>ArrowLeft</Action>
+	  <KeyUp>LeftAlt</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+l='Arrows' s-^!F15
+
+	<DynamicKey>
+#	    .a=MouseScrollToBottom
+      <Symbol>BrowserForwardIcon</Symbol>
+	  <Label>Forward</Label>
+	  <KeyDown>LeftAlt</KeyDown>
+	  <Action>ArrowRight</Action>
+	  <KeyUp>LeftAlt</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey> 
+
+ 	<DynamicKey>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	  <Label>EXPOSE</Label>
+	  <KeyDown>LeftWin</KeyDown>
+	  <Text>&#9;</Text>
+	  <KeyUp>LeftWin</KeyUp>
+#	  <Wait>500</Wait>
+#      <Action>MouseMoveAndLeftClick</Action>
+#	  .w=1000 u=LeftCtrl
+    </DynamicKey>
+
+	<DynamicKey>
+		<Action>End</Action>
+		<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+		<Label>End</Label>
+	</DynamicKey>	
+
+l='Toggle\\nDictation'
+
+
+# l='Ctrl Shft\\nArrows' s-^!F17
+# l='Ctrl\\nArrows' s-^!F18

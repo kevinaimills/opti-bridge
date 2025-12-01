@@ -1,0 +1,23 @@
+s-!escape s=LookToScrollSpeedSlowIcon	
+
+ 	<DynamicKey>
+	  <Label>Toggle\nDragon</Label>
+    .s-^!f5
+	  <KeyDown>Control</KeyDown>
+	  <KeyDown>LeftShift</KeyDown>
+	  <Text>\</Text>
+	  <KeyUp>Control</KeyUp>
+	  <KeyUp>LeftShift</KeyUp>
+     <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+
+c=\k\bPhrases
+ 
+<DynamicKey></DynamicKey>
+<DynamicKey></DynamicKey>
+<DynamicKey></DynamicKey>
+
+l=Arrows
+l='Shift\\nArrows'
+l='Ctrl Shift\\nArrows'
+

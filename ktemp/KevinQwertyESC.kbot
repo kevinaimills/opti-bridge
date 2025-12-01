@@ -1,0 +1,41 @@
+<DynamicKey>
+	<Action>Escape</Action>
+	<ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	<Label>Esc</Label>
+</DynamicKey>
+
+<DynamicKey>
+	<Label>FN 1-9</Label>
+	<ChangeKeyboard>KevinQwertyFN</ChangeKeyboard>
+</DynamicKey> 
+ 
+<DynamicKey>
+	<Label>FN 10-12\nMisc</Label>
+	<ChangeKeyboard>KevinQwertyFNMore</ChangeKeyboard>
+</DynamicKey> 
+
+t=\
+t=~
+t=`
+
+   	<DynamicKey>
+		.a=NumPad5
+		<Action>LeftCtrl</Action>
+		<Label>Ctrl</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>
+
+	<DynamicKey>
+		.a=NumPad5
+		<Action>LeftWin</Action>
+		<Symbol>WinIcon</Symbol>
+		<Label>Super</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>
+
+   <DynamicKey>
+		.a=NumPad5
+		<Action>LeftAlt</Action>
+		<Label>Alt</Label>
+		<ChangeKeyboard>KevinQwerty</ChangeKeyboard>
+	</DynamicKey>	

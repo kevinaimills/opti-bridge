@@ -1,0 +1,46 @@
+	<DynamicKey>
+	  <Label>esc fn\n\ ~ `\nmods</Label>
+	  <ChangeKeyboard>KevinQwertyESC</ChangeKeyboard>
+    </DynamicKey>
+
+	
+ <DynamicKey>
+	<Text>&#9;</Text>
+	<Label>Tab</Label>
+	<Symbol>TabIcon</Symbol>
+	.c=\k\b
+</DynamicKey>
+
+	<DynamicKey>
+        <Action>BackOne</Action>
+		<Label>Backspace</Label>
+		<Symbol>BackOneIcon</Symbol>
+#	.c=\k\b
+    </DynamicKey>
+
+c=\k\ySyms
+c=\k\y
+c=\k\yPunc
+
+    <DynamicKey>
+		<Action>Delete</Action>
+        <Symbol>NoIcon</Symbol>
+#		<Label>Delete</Label>
+	.c=\k\b
+	</DynamicKey>
+
+<DynamicKey>
+  <Symbol>ArrowPointingToBottomIcon</Symbol>
+  .c=\k\bHoldLong w=300 
+  <ChangeKeyboard>KevinBottomSleep</ChangeKeyboard>
+</DynamicKey>
+
+	<DynamicKey>
+		<Text>&#13;</Text>
+	.c=\k\b
+#		<Action>BackFromKeyboard</Action>
+#		<Label>Enter and Exit</Label>
+		<Symbol>EnterIcon</Symbol>
+	</DynamicKey>
+
+	close=KevinBottom

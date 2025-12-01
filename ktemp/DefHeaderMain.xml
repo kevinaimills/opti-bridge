@@ -1,0 +1,13 @@
+<Keyboard>
+	
+	<Position>Bottom</Position>
+  <Height>100%</Height>
+  <SymbolMargin>1</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <BackgroundColor>Transparent</BackgroundColor>
+  <BorderColor>Transparent</BorderColor>
+  <WindowState>Floating</WindowState>
+  <PersistNewState>True</PersistNewState>  
+  <Grid><Rows>24</Rows><Cols>3</Cols></Grid>
+  <KeyGroup Name="ALL" CompletionTimes="10" LockOnTime="0"/>

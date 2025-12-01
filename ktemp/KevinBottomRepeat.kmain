@@ -1,0 +1,7 @@
+#copy[\k\b][<Symbol>ReplayLastMouseActionIcon</Symbol>][<Symbol>ReplayLastMouseActionIcon</Symbol><Action>RepeatLastMouseAction</Action>]
+#copy[\k\b][<Symbol>ReplayLastMouseActionIcon</Symbol> && CompletionTimes="100, 100"][<Symbol>ReplayLastMouseActionIcon</Symbol><Action>RepeatLastMouseAction</Action> && CompletionTimes="100, 300, 100"]
+
+copy[\k\b][</DynamicKey>][</DynamicKey><DynamicKey CompletionTimes="100, 300, 100" Row="0" Col="2" Height="24"><Symbol>ReplayLastMouseActionIcon</Symbol><Action>RepeatLastMouseAction</Action></DynamicKey>]
+    
+    
+#    <Symbol>ReplayLastMouseActionIcon</Symbol><Action>RepeatLastMouseAction</Action> && CompletionTimes="100, 300, 100"]

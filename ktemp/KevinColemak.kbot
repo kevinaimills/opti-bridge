@@ -1,0 +1,46 @@
+	<DynamicKey>
+	  <Label>esc fn\nPg\narrows</Label>
+	  <ChangeKeyboard>KevinQwertyESC</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>_Space_\nPhrases\n(More)</Label>
+	  <ChangeKeyboard>KevinQwertyPhrases</ChangeKeyboard>
+    </DynamicKey>
+
+  	<DynamicKey>
+	  <Label>- = B\n[ ] \ \nErase</Label>
+	  <ChangeKeyboard>KevinQwertyBack</ChangeKeyboard>
+   </DynamicKey>
+
+	<DynamicKey>
+	  <Label>qwf\nars\nzxc</Label>
+	  <ChangeKeyboard>KevinQwertyA</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+	  <Label>pbj\nt+o\ndvk</Label>
+	  <ChangeKeyboard>KevinQwertyJ</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+	  <Label>luy\nnei\nhgm</Label>
+	  <ChangeKeyboard>KevinQwertyS</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>Ctrl\nPlay\nVolume</Label>
+	  <ChangeKeyboard>KevinQwertyMods</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>123\n456\n7*8</Label>
+	  <ChangeKeyboard>KevinQwertyNums</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+	  <Label>` ; ' \n, . / \n9 0 D</Label>
+	  <ChangeKeyboard>KevinQwertySyms</ChangeKeyboard>
+    </DynamicKey>
+
+	close=KevinBottom

@@ -1,0 +1,29 @@
+
+a=MouseScrollAmountInClicks l=scroll\\nmore
+
+a=MouseMoveAndScrollToTop s=MouseScrollToTopIcon c=\k\brepeat
+
+#a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks c=\k\brepeat w=10 a=MouseScrollToTop s=MouseScrollToTopIcon a=MouseScrollAmountInClicks 
+c=\k\brepeat s-^+F20 l='Nudge\\nUp'
+
+
+a=MouseMoveAndScrollToLeft s=MouseScrollToLeftIcon c=\k\brepeat
+
+<DynamicKey>
+	<ChangeKeyboard>KevinBottomRepeat</ChangeKeyboard>
+	<Action>MouseMagnifier</Action>
+	<Symbol>MouseMiddleClickIcon</Symbol>
+	<Action>MouseMoveAndMiddleClick</Action>
+</DynamicKey>
+
+#s=LookToScrollActiveIcon c=\k\brepeat w=10 a=LookToScrollActive
+#a=MouseScrollAmountInClicks
+
+a=MouseMoveAndScrollToRight s=MouseScrollToRightIcon c=\k\brepeat
+
+a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks l=scroll\\nless
+
+a=MouseMoveAndScrollToBottom s=MouseScrollToBottomIcon c=\k\brepeat
+
+#a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks a=MouseScrollAmountInClicks c=\k\brepeat w=10 s=MouseScrollToBottomIcon a=MouseScrollToBottom a=MouseScrollAmountInClicks 
+c=\k\brepeat s-^+F21 l='Nudge\\nDown'

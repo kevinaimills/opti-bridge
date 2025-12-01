@@ -1,0 +1,73 @@
+	<DynamicKey>
+	  <Label>ctrl-r</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>r</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-y</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>y</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-o</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>o</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-f</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>f</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+	
+	<DynamicKey>
+	  <Label>ctrl-g</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>g</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-h</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>h</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+
+
+	<DynamicKey>
+	  <Label>ctrl-z</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>z</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-x</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>x</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-n</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>n</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+

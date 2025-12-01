@@ -1,0 +1,41 @@
+a=Action
+t=Text
+l=Label
+c=ChangeKeyboard
+r=ReturnKeyboard
+d=KeyDown
+u=KeyUp
+s=Symbol
+w=Wait
+g=KeyToggle
+p=Phrase
+
+l\ArrowLeft
+r\ArrowRight
+u\ArrowUp
+d\ArrowDown
+k\Kevin
+b\Bottom
+s\&#32;
+q\Qwerty
+c\close=
+e\&#13;
+o\Opacity
+t\Trans
+z\Sleep
+y\Keyboard
+
+!-LeftAlt
+^-LeftCtrl
++-LeftShift
+#-LeftWin
+
+[<ChangeKeyboard Close="Yes".*?>KevinQwerty<\/ChangeKeyboard>][.c=\k\q w=50]
+[<ChangeKeyboard.*?>KevinBottom<\/ChangeKeyboard>][.c=\k\b a=\z w=150 a=\z]
+
+#[<Action.*?>BackFromKeyboard<\/Action>][.c=\k\bSleep w=150 a=BackFromKeyboard]
+
+#[<ChangeKeyboard.*?>KevinBottom<\/ChangeKeyboard>][.c=\k\bHold w=150 c=\k\b]
+#[<ChangeKeyboard.*?>KevinBottomMain<\/ChangeKeyboard>][.c=\k\bHold w=60 c=\k\bMain]
+#[<ChangeKeyboard.*?>KevinTagsBottom<\/ChangeKeyboard>][.c=\k\bHold w=150 c=\kTags\b]
+#[<Action.*?>BackFromKeyboard<\/Action>][.a=BackFromKeyboard a=\z w=200 a=\z]

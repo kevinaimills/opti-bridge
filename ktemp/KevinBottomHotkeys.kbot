@@ -1,0 +1,64 @@
+	<DynamicKey>
+	  <Label>ctrl-w</Label>
+	    .a=MouseScrollToBottom
+	  <KeyDown>Control</KeyDown>
+	  <Text>w</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl-t</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>t</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+	<DynamicKey>
+	  <Label>ctrl +</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>+</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+
+	s-^a l=ctrl-a
+
+ 	<DynamicKey>
+	  <Label>ctrl-s</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>s</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+  	<DynamicKey>
+	  <Label>ctrl -</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>-</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+
+  	<DynamicKey>
+	  <Label>ctrl-c</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>c</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+    </DynamicKey>
+ 
+	<DynamicKey>
+	  <Label>ctrl-v</Label>
+	  <KeyDown>Control</KeyDown>
+	  <Text>v</Text>
+	  <KeyUp>Control</KeyUp>
+      <ChangeKeyboard>KevinBottom</ChangeKeyboard>
+	</DynamicKey>
+	
+	<DynamicKey>
+      <Label>((MORE))</Label>
+      <ChangeKeyboard>KevinBottomHotkeys2</ChangeKeyboard>
+	</DynamicKey>
+ 
